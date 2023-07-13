@@ -14,11 +14,7 @@ This repo contains the following:
 
 | Item | Description |
 | ------ | ------ |
-| YT link | Link to the live test of all 28 code items, which proves fully working code. |
 |  | |
 | CSV| Link to the TZ.csv file used in the demo.|
 |  | |
-| YT link | Add layers. |
-|  |  |
-| YT link | Lambda performance/triggers/logs data. |
-|  |  |
+
