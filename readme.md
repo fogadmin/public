@@ -18,7 +18,7 @@ This repo contains the following:
 |  | |
 | CSV| Link to the TZ.csv file used in the demo.|
 |  | |
-| YT link | Showing you how to add layers. |
+| YT link | Add layers. |
 |  |  |
-| YT link | Link to lambda performance, bucket triggers and cloudwatch logs data. |
+| YT link | Lambda performance/triggers/logs data. |
 |  |  |
