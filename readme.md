@@ -7,7 +7,7 @@
 
 Four additional components for AWS Lambda developers who purchased the Bullet Boto3 S3 guide. 
 
-## Installation
+## Contents
 
 This repo contains the following:  
 
